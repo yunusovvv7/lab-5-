@@ -21,4 +21,3 @@ Uzun yozilgan turlarga shunchaki qisqaroq  (name) qo‘yib qo‘yish Yangi tur y
 Kotlin'dagi hamma narsaning otasi — eng asosiy tur Har bir klassga ⁠equals⁠ hashCode⁠ larni beradi Lekin ⁠Any qilib ishlatish xavfli chunki keyin uni to‘g‘ri turga cast qilish (⁠as⁠) kerak bo‘ladi aks holda xato berib yiqilib tushishi mumkin.
 10. Nothing
 Umuman qiymat qaytarmaydigan narsa (masalan doim xato otib to‘xtaydigan funksiyalar) U hamma turning quyi turi bo‘la oladi Masalan biron xato chiqib to‘xtagandan keyin kompilyator bu yerga boshqa kod kelmasligini tushunib o‘zi "smart-cast" qilib ketadi Yoki UI'dagi ⁠Loading⁠/⁠Error⁠ holatlarida ma'lumot ketkazish shart bo‘lmaganda ishlatiladi.) 
-Md file qilish kerak
